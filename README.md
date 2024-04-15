@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosAbarca
-- 👀 I’m interested in working as a Linux Administrator or as a Developer Front-End Junior
-- 🌱 I’m currently learning HTML, CSS and JavaScript, Git and GitHub
+- 👀 I’m interested in working as a Frontend Developer or Web Developer
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Angular 
 - 💞️ I’m looking to collaborate on projets that allow me to grow and put my knowledge into practice
 - 📫 How to reach me through my linkedin account  << linkedin.com/in/carlos-abarca-espinoza/ >>
 
